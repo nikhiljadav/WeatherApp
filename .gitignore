@@ -14,7 +14,7 @@
 .cxx
 local.properties
 <<<<<<< HEAD
-.idea/
+/.idea
 =======
 build.gradle
 gradle.properties
