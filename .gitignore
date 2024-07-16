@@ -13,4 +13,12 @@
 .externalNativeBuild
 .cxx
 local.properties
+<<<<<<< HEAD
 .idea/
+=======
+build.gradle
+gradle.properties
+gradlew
+gradlew.bat
+settings.gradle
+>>>>>>> 962f058923535cc1ef73e7d5958b75cc3c800cba

@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
     TextView LongitudeDisplay, LatitudeDisplay, ErrorDisplay, Hour1, Hour2, Hour3, Hour4, city, TempCur;
     Button getWeather;
     String url = "https://api.openweathermap.org/data/2.5/weather?";
-    String apiKey = "a59ccb2c176a160a33e89f806d13cb7d";
+    String apiKey = "";
     String error1 = "Must provide ZIP code";
     String error2 = "Must provide country code";
     JSONObject weatherJSON, secondCall;
